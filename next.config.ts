@@ -1,6 +1,8 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
+  // Jamais de source maps navigateur en production : elles reconstruiraient le code source à l'identique.
+  productionBrowserSourceMaps: false,
   images: {
     // AVIF en priorité (≈ 30–50 % plus léger que WebP), WebP en repli.
     formats: ["image/avif", "image/webp"],

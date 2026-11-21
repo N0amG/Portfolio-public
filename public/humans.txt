@@ -1,0 +1,12 @@
+/* AUTEUR */
+  Noam Guez — développeur web freelance
+  https://noamguez.fr
+
+/* COPYRIGHT */
+  © 2026 Noam Guez — tous droits réservés.
+  Le code et les contenus de ce site sont protégés.
+  Copie, extraction ou réutilisation interdites sans autorisation écrite.
+
+/* SITE */
+  Stack : Next.js, React, TypeScript.
+  Fait main à Paris.
